@@ -1,13 +1,13 @@
-package kr.ac.knou.qvil.componentprogramming;
+package kr.ac.knou.qvil.gradleexample;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ComponentProgrammingApplication {
+public class GradleExampleApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ComponentProgrammingApplication.class, args);
+		SpringApplication.run(GradleExampleApplication.class, args);
 	}
 
 }

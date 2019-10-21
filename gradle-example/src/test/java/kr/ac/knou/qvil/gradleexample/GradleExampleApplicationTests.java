@@ -1,10 +1,10 @@
-package kr.ac.knou.qvil.componentprogramming;
+package kr.ac.knou.qvil.gradleexample;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ComponentProgrammingApplicationTests {
+class GradleExampleApplicationTests {
 
 	@Test
 	void contextLoads() {
